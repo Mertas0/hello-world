@@ -1,2 +1,3 @@
 # hello-world
-New project
+
+Hello ! I am Mert. I am new in the Github.
